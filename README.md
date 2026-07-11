@@ -25,10 +25,10 @@ Access the in-game UI panel to adjust these variables in real-time:
 
 | Setting | Default | Description |
 | :--- | :--- | :--- |
-| **Walk Speed** | `5.0` | Adjusts the normal walking pace. |
-| **Sprint Speed** | `8.0` | Adjusts running speed when holding Shift. |
-| **Jump Force** | `5.0` | Controls the vertical height of player jumps. |
-| **Gravity** | `-9.81` | Alters the downward physics pull on the capsule. |
+| **Walk Speed** | `4.0` | Adjusts the normal walking pace. |
+| **Sprint Speed** | `10.0` | Adjusts running speed when holding Shift. |
+| **Jump Force** | `1.2` | Controls the vertical height of player jumps. |
+| **Gravity** | `-15.0` | Alters the downward physics pull on the capsule. |
 | **Mouse Sensitivity** | `2.0` | Changes the camera rotation response to mouse movement. |
 
 ## 🛠️ Built With
